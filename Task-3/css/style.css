@@ -1,0 +1,30 @@
+body {
+    text-align: center;
+    color: white;
+    border-color: white;
+    background-color: #97D9E1;
+  }
+  
+  h1,p {
+    margin: 20px auto;
+  }
+  .usrinput{
+    margin:20px auto;
+  }
+  .screen {
+    width:320px;
+    padding: 20px;
+    margin: 100px auto;
+    border-radius: 15px;
+    border-style: solid;
+    background-color: black;
+  }
+  
+  button{
+    border-radius: 10px;
+    width:75px;
+    margin-top: 13px;
+  }
+  .keyboard{
+    padding:20px 0 0 0;
+  }

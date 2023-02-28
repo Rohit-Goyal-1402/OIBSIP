@@ -1,0 +1,150 @@
+.headerr
+{
+    background-color:#119967;
+    color:#000;
+    padding:3%;
+}
+
+h1
+{
+    font-size: 3.2rem;
+    font-weight:bold;
+    line-height:1.8;
+    font-family: 'Shantell Sans', cursive;
+}
+
+.container-fluid
+{
+    padding: 5% 15%;
+}
+
+.naav
+{
+    font-weight:bold;
+    font: size 2.5rem;
+}
+
+.navbar
+{
+    ;
+}
+
+.navbar-items
+{
+    padding:0 20px;
+}
+
+.fieimg
+{
+    width:500px;
+}
+
+#avilable
+{
+    padding: 8% 16%;
+}
+
+.availability
+{
+    text-align:center;
+    padding:6%;
+}
+
+h2{
+    font-family: 'Tilt Warp', cursive;
+    font-size: 3.2rem;
+    line-height: 1.4rem;
+}
+
+
+h3{
+    font-family: 'Tilt Warp', cursive;
+}
+
+p{
+    color:grey;
+}
+
+.icon
+{
+    color:#119967;
+    margin-bottom: 1.5rem;;
+}
+.icon:hover{
+    color:#61ba99;
+}
+
+#middle{
+    
+    text-align:center;
+    background-color:#187d57;
+    color:#fff;
+}
+
+.middle-img{
+    width:12%;
+    border-radius: 100%;
+    margin: 18px;
+}
+
+.carousel-item
+{
+    padding:17% 26%;
+}
+
+#premium-plan
+{
+    padding: 100px;
+    text-align: center;
+}
+.plan-col 
+{
+    padding 5% 3%;
+}
+.card1
+{
+    background-color: aqua;
+}.card2
+{
+    background-color: silver;
+}.card3
+{
+    background-color: gold;
+}
+.card-body1
+{
+    background-color:lightcyan;
+}.card-body2
+{
+    background-color:lightgray;
+}.card-body3
+{
+    background-color:#f7f286;
+}
+
+#contact
+{
+    background-color: #119967;
+    color:#fff;
+    text-align: center;
+}
+.contact-head
+{
+    font-family: 'Tilt Warp', cursive;
+    font-size:2.5rem;
+    text-align: center;
+    padding:7%
+}
+.contact-head2
+{
+    font-family: 'Tilt Warp', cursive;
+    font-size:3.5rem;
+    text-align: center;
+    color:lightgray;
+    padding:6%;
+}
+.bttn
+{
+    padding:2% auto 5% auto;
+}
+
